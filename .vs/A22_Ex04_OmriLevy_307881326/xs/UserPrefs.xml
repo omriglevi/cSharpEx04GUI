@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{BD5A4BAB-F05F-4CA7-AB58-B65B291DE03B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ex04.Menus.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex04.Menus.Delegates/Program.cs">
+    <Files>
+      <File FileName="Ex04.Menus.Test/Program.cs" Line="14" Column="32" />
+      <File FileName="Ex04.Menus.Delegates/MenuLevel.cs" />
+      <File FileName="Ex04.Menus.Delegates/MenuApp.cs" />
+      <File FileName="Ex04.Menus.Delegates/Program.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="A22_Ex04_OmriLevy_307881326" expanded="True">
+            <Node name="Ex04.Menus.Delegates" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Ex04.Menus.Interfaces" expanded="True" />
+            <Node name="Ex04.Menus.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ex04.Menus.Delegates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Ex04.Menus.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

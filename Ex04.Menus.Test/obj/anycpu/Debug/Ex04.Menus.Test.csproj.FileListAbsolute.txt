@@ -1,0 +1,9 @@
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Test/bin/Debug/Ex04.Menus.Test.exe
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Test/bin/Debug/Ex04.Menus.Test.pdb
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Test/bin/Debug/Ex04.Menus.Delegates.exe
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Test/bin/Debug/Ex04.Menus.Delegates.pdb
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Test/obj/anycpu/Debug/Ex04.Menus.Test.csproj.AssemblyReference.cache
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Test/obj/anycpu/Debug/Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Test/obj/anycpu/Debug/Ex04.Menus.Test.csproj.CopyComplete
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Test/obj/anycpu/Debug/Ex04.Menus.Test.exe
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Test/obj/anycpu/Debug/Ex04.Menus.Test.pdb

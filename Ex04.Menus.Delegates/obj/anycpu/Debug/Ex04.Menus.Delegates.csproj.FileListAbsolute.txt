@@ -1,0 +1,6 @@
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Delegates/bin/Debug/Ex04.Menus.Delegates.exe
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Delegates/bin/Debug/Ex04.Menus.Delegates.pdb
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Delegates/obj/anycpu/Debug/Ex04.Menus.Delegates.csproj.AssemblyReference.cache
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Delegates/obj/anycpu/Debug/Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Delegates/obj/anycpu/Debug/Ex04.Menus.Delegates.exe
+/Users/wmrylwy/Projects/A22_Ex04_OmriLevy_307881326/Ex04.Menus.Delegates/obj/anycpu/Debug/Ex04.Menus.Delegates.pdb
